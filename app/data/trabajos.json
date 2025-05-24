@@ -1,0 +1,24 @@
+{
+  "trabajos": [
+    {
+      "id": "80857da3-3bc0-440d-b991-c4d02a3ae4f2",
+      "cliente_id": 1,
+      "profesional_id": 5,
+      "fecha_creacion": "2025-05-23T19:30:22.010162",
+      "fecha_actualizacion": "2025-05-23T19:30:22.010162",
+      "estado": "activo",
+      "titulo": "Diseño de tatuaje personalizado",
+      "descripcion": "Quiero un tatuaje con elementos geométricos y mi inicial",
+      "categoria": "tatuaje",
+      "calificacion": null,
+      "comentario_cliente": null,
+      "comentario_profesional": null
+    }
+  ],
+  "metadata": {
+    "creado_en": "2025-05-23T19:30:02.067700",
+    "ultima_actualizacion": "2025-05-23T19:30:22.010162",
+    "total_trabajos": 1,
+    "total_activos": 1
+  }
+}
